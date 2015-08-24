@@ -6,6 +6,7 @@ slug: things-we-should-all-know
 
 ###Laptops: Security and Safety
 The majority of the team use OSX, some of you may prefer to use another OS, there are a few simple points we like to remind people of:
+
  - Be choosy about major updates. Sometimes they can cause issues with third party tools, check with others when upgrading and don't rush headlong halfway through an important project, you could lose precious time or actually lose some work.
  - **Encrypt your machine**
  - **Have a password**
