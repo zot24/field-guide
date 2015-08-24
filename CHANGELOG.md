@@ -4,6 +4,9 @@
  - Added in more information for contributing
  - Updated illness to remove my terrible quote
  - Removed old params.json
+ - Added information in the readme for running jekyll
+ - Updated styles
+ - Updated the welcome page
 
 ## 0.0.1 (24-08-2015)
 

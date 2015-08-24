@@ -8,7 +8,8 @@ slug: welcome-to-moltin
 In a connected world there is no such thing as eCommerce, there is only commerce. If your system can connect to the internet, if your system manages stock, if your system sells things, it should be powered by Moltin. Simple as that.
 
 No one should be in denial about the scope of our project, we’re here to change everything about commerce.
-Who do we work for?
+
+###Who do we work for?
 We do not work for governments, our investors, or ourselves, we work for our users, they are our most important asset.
 
 ###Organisation
@@ -17,7 +18,6 @@ Organisation is often something that happens, rather than something that is plan
 One week you may find you’re leading a small team, the next week you may be taking a back seat whilst someone else is calling the shots. As features and projects roll by we expect to find different people taking a driving seat depending on their skills or passion for that unit of work.
 
 Of course some people like to lead more than others and that’s fine, we should all be happy to be fluid in that respect.
-
 
 ###Ethos
 We don’t like to make many rules, but we have a few simple tenets we try to work by:
