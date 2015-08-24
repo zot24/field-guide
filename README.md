@@ -5,6 +5,8 @@ A company field guide to non-technical best practices. **Basically how to get on
  - Top 10 field guides award in 2015!
  - All p/r's will be acknowledged, but may not be accepted :)
 
+Visit the github pages here: http://moltin.github.io/field-guide
+
 ##Contributing
 
  - Fork it the repository
