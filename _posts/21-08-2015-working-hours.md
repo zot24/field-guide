@@ -12,12 +12,13 @@ If you find yourself working too many hours, you should mention it so it can be 
 
 ### Illness
 
-```
-If everyone who got the common cold was quarantined until the virus was no longer contagious, we'd wipe it out in a few years.
-
-C.Roach 2014
-```
+{% highlight ruby %}
+"If everyone who got the common cold was quarantined,
+we'd wipe it out in a few years."
+{% endhighlight %}
 
 If you're ill, stop trying to look like a hero, We don't want your flu-ridden body shuffling around the office like a semi-animated corpse.
+
+We also don't want other people being infected by you.
 
 Let the team know in slack, and pick up your work from anywhere other than where the main team is!
