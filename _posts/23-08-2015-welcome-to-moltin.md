@@ -23,7 +23,7 @@ Of course some people like to lead more than others and that’s fine, we should
 We don’t like to make many rules, but we have a few simple tenets we try to work by:
 
  - **Accept New Ideas**. Everyone and anything should be open to new ideas about work processes, structure, best practices, conventions etc… If we’re all open and embrace new things we can’t overlook great ideas when they do come around.
- - **Don’t be a dick**. Pretty simple.
+ - **Don’t be an asshole**. Pretty simple.
  - **Work hard**. We’re in an undeniable position. Its going to be hard work, but it will be fun. Accept that, embrace it, hard work has its own rewards, it also brings teams closer, makes achievements sweeter, and makes the times when you can relax all the better.
  - **Work smart**. If you’re performing repetitive, time consuming tasks, you might be doing something wrong. Always ask yourself, “Am I working smart?”
 
