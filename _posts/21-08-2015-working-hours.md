@@ -13,8 +13,9 @@ If you find yourself working too many hours, you should mention it so it can be 
 ### Illness
 
 {% highlight ruby %}
-"If everyone who got the common cold was quarantined,
-we'd wipe it out in a few years."
+"If everyone who got the common cold was quarantined, we'd wipe it out in a few years."
+
+Outrunthewolf 2014
 {% endhighlight %}
 
 If you're ill, stop trying to look like a hero, We don't want your flu-ridden body shuffling around the office like a semi-animated corpse.
